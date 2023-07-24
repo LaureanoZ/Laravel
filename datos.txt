@@ -1,0 +1,13 @@
+Carrera: Diseño y Desarrollo web
+Materia: Portales y Comercio Electrónico
+Cuatrimestre: 4to cuatrimestre 
+Turno: noche
+Comisión: DWN4AV
+Apellido: Zalazar
+Nombre: Laureano
+Docente: Gallino Santiago
+Carácter de entrega: 2er Parcial
+
+Usuario admin: laureano.zalazar@davinci.edu.ar
+password admin: laureano
+Database name: wedding_web

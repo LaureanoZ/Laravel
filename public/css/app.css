@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "Dandelions";
+    src: url("../fonts/Dandelions.otf") format('truetype');
+}
+
+html, body, #app {
+    height: 100%;
+}
+body{
+    background-color: #f1e7c5;
+}
+
+#app {
+    display: grid;
+    grid-template-rows: 56px 1fr 140px;
+}
+
+.footer {
+    height: 140px;
+    background-color: #f5938b;
+    color: #000;
+}
+.ww-bg-color{
+    background-color: #f5938b;
+}
+.ww-font{
+    font-family: "Dandelions";
+}
+.btn-ca{
+    background-color: #eb445b;
+}
+.btn-ca:hover{
+    background-color: #f7596e;
+}
+.btn-ca:focus{
+    background-color: #f78a99 !important;
+}
+.btn-ca-2{
+    background-color: #379f7a;
+}
+.btn-ca-2:hover{
+    background-color: #46c095;
+}
+.btn-ca-2:focus{
+    background-color: #46cf9f !important;
+}
+.btn-nav{
+    background-color: #76b5a0;
+}
+.btn-nav:hover{
+    background-color: #88cfb7;
+}
+.btn-nav:focus{
+    background-color: #88cfb7 !important;
+}
+.mt-n1 {
+    margin-top: -0.25rem !important;
+}
+.ww-focus:focus{
+    background-color: #f78a99 !important;
+    border-color: #eb445b !important;
+    box-shadow: #eb445b !important;
+}
+.table-image{
+   width: 50px !important;
+}
+.container-scrollable{
+    overflow-x: auto;
+}
